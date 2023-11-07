@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mainfavin
-- 👀 I’m interested in APROVAR PROG 3
-- 🌱 I’m currently learning PROG 3
-- 💞️ I’m looking to collaborate on LAS PRACTICAS DE PROG 3
+- 👀 I’m interested in APROBAR 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate anything
 - 📫 How to reach me mainfavin@unirioja.es
                                             
 
