@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Marcos Infante</h1>
+<h1 align="center">Hi , I'm Marcos Infante</h1>
 <h3 align="center">Computer Engineer focused on frontend development, data engineering, and AI integration. I enjoy building clean interfaces, modular data pipelines, and tools that make developers more productive.</h3>
 
-- 🔭 I’m currently working on [AI-enhanced-ETL](https://github.com/mainfavin/AI-enhanced-ETL)
+-  I’m currently working on [AI-enhanced-ETL](https://github.com/mainfavin/AI-enhanced-ETL)
 
-- 🌱 I’m currently learning about **AWS, Azure and cloud services in general.**
+-  I’m currently learning about **AWS, Azure and cloud services in general.**
 
-- 👨‍💻 All of my projects are available at [https://marcosinfante.com/work](https://marcosinfante.com/work)
+-  All of my projects are available at [https://marcosinfante.com/work](https://marcosinfante.com/work)
 
-- 📫 How to reach me **me@marcosinfante.com**
+-  How to reach me **me@marcosinfante.com**
 
-- 📄 Know about my experiences [https://marcosinfante.com/about](https://marcosinfante.com/about)
+-  Know about my experiences [https://marcosinfante.com/about](https://marcosinfante.com/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
